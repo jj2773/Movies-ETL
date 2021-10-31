@@ -1,9 +1,12 @@
 # Movies-ETL
 ## Background
 The following data sources were utilized for this Challenge
-* Movie Lens Ratings in CSV format
+* Movie Lens ratings.csv
 * A JSON file consisting of scraped movie data from Wikipedia
-* Kaggle movie metadata CSV
+* Kaggle movies_metadata.csv
+
+The CSV files were larger than permitted by GitHub but can be obtained from Kaggle.
+https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 ## Deliverables
 The following deliverables are building upon one another to reach the final product
