@@ -14,7 +14,7 @@ The following deliverables are building upon one another to reach the final prod
 
 The below images confirm the tables in Postgres via a PGAdmin Query of counts
 
-![alt text](https://github.com/jj2773/Movies-ETL/blob/main/movies_query.PNG)
+![alt text](https://github.com/jj2773/Movies-ETL/blob/main/Resources/movies_query.PNG)
 
-![alt text](https://github.com/jj2773/Movies-ETL/blob/main/ratings_query.PNG)
+![alt text](https://github.com/jj2773/Movies-ETL/blob/main/Resources/ratings_query.PNG)
 
